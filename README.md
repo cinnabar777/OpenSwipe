@@ -28,11 +28,10 @@ From 2007-2014 I worked with a developer on an open source CMS, it was a great c
 
 Therefore as it stands, this is a good modified DTW gesture engine that can easily be developed further. 
 
+___
+___
 
-
- 
- 
-
+ original kotlin engine name:  `SwipeGestureEngineKotlin.kt` changed to `OpenSwipe.kt`
 
 ___
 ___
