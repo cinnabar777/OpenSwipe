@@ -18,7 +18,7 @@ No doubt a developer with the full game plan could carry this out in days, but t
 
 This design is not a simple basic gesture engine, it is an extremely fast learning, adapting, driven by the user not the software to always adapt to the user, gesture engine. 
 
-The basic idea comes from the simple reality, the to 1,000 words in English account for 89% of communication, therefore why is every gesture I do compare to 150,000 words? Secondly, the average person only uses a few thousand words in their written/typing communication. Again then, why is every gesture compared to 150,000 words? 
+The basic idea comes from the simple reality, the top 1,000 words in English account for 89% of communication, therefore why is every gesture I do compare to 150,000 words? Secondly, the average person only uses a few thousand words in their written/typing communication. Again then, why is every gesture compared to 150,000 words? 
 
 The sandbox hypothesis tested out in the Java build proved how dramatic word clarity can be increased with a little innovation. 
 
@@ -31,7 +31,7 @@ Therefore as it stands, this is a good modified DTW gesture engine that can easi
 ___
 ___
 
- original kotlin engine name:  `SwipeGestureEngineKotlin.kt` changed to `OpenSwipe.kt`
+The original kotlin engine name:  `SwipeGestureEngineKotlin.kt` changed to `OpenSwipe.kt`
 
 ___
 ___
