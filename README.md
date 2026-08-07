@@ -14,7 +14,7 @@ I removed the DTW engine from the original L2 Java, converted it into kotlin, an
 
 I however have decided that the ROI is not there for me to continue this on my phone 😂. I would have to maintain a fork to ensure it is implemented the way I want, and maintaining a fork is not a current life need or desire. 
 
-No doubt a developer with the full game plan could carry this out in days, but there is the rub. It seems developers creating gesture engines are either thumb typers or have no real game plan other than a simple basic gesture engine. 
+No doubt a developer with the full game plan could carry this out in days, but there is the rub. It seems developers creating gesture engines are either thumb typers or have no real game plan other than a simple basic gesture engine. 🤷🏻‍♂️
 
 This design is not a simple basic gesture engine, it is an extremely fast learning, adapting, driven by the user not the software to always adapt to the user, gesture engine. 
 
@@ -24,7 +24,7 @@ The sandbox hypothesis tested out in the Java build proved how dramatic word cla
 
 Many of the ideas can be pulled from the Java build. It has about 50-70% of the ideas in it. 
 
-From 2007-2014 I worked with a developer on an open source CMS, it was a great collaboration that created something far better than either of us dreamed of. I've found that developers by and large do not work well with non-developers, and I'm just to old to deal with the current self important know it all developer mindset. It would be great to see this come to life, but it would take a unique developer who wants to dig in an get it done asap and can accept direction from a non-developer. 🤣
+…
 
 Therefore as it stands, this is a good modified DTW gesture engine that can easily be developed further. 
 
