@@ -36,7 +36,7 @@ The original kotlin engine name:  `SwipeGestureEngineKotlin.kt` changed to `Open
 ___
 ___
 
-Deepseek summary of DTW engine:
+Deepseek summary of the modified DTW engine:
 
 # DTW GESTURE ENGINE
 
