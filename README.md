@@ -1,3 +1,6 @@
+[WORK IN PROGRESS: I am currently working on a comprehensive writeup that should be done by August 20 or sooner.] 
+
+
 # OPENSWIPE
 
 
