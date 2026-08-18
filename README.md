@@ -2,11 +2,15 @@ THIS IS A WORK IN PROGRESS AND IS NOT COMPREHENSIVE!
 
 ___
 
-This version was produced by Deepseek based on Part 1, my original writing, and Part 2, Replit compilation of old documentation I had from originally working on the engines. These documents are in the [Docs flooded](https://github.com/cinnabar777/OpenSwipe/tree/main/Docs). 
+This version was produced by Deepseek based on Part 1, my original writing, and Part 2, Replit compilation of old documentation I had from originally working on the engines. These documents are in the [Docs folder](https://github.com/cinnabar777/OpenSwipe/tree/main/Docs). 
 
 ___
 
-Source document: [OpenSwipe](https://github.com/cinnabar777/OpenSwipe)
+How to use these documents: drop them into an LLM with reference code like the [OpenSwipe.kt](https://github.com/cinnabar777/OpenSwipe/blob/main/OpenSwipe.kt) file and/or the gesture engine from WMKeyboard and decide what parts you want to work on. The goal is to minimize your time having to research the subject and explain it to an LLM. 
+
+___
+
+Source documents: [OpenSwipe](https://github.com/cinnabar777/OpenSwipe)
 
 Target Projects:
 
