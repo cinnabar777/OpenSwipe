@@ -1,12 +1,13 @@
-THIS IS A WORK IN PROGRESS AND IS NOT COMPREHENSIVE! 
+
+**THIS IS A WORK IN PROGRESS AND IS NOT COMPREHENSIVE!** 
 
 ___
 
-This version was produced by Deepseek based on Part 1, my original writing, and Part 2, Replit compilation of old documentation I had from originally working on the engines. These documents are in the [Docs folder](https://github.com/cinnabar777/OpenSwipe/tree/main/Docs). 
+This version was produced by Deepseek based on [Part 1](https://github.com/cinnabar777/OpenSwipe/blob/main/Docs/DTW_PART_1.md), my original writing, and [Part 2](https://github.com/cinnabar777/OpenSwipe/blob/main/Docs/DTW_PART_2.md), Replit compilation of old documentation I had from originally working on the engines. These documents are in the [Docs folder](https://github.com/cinnabar777/OpenSwipe/tree/main/Docs). 
 
 ___
 
-How to use these documents: drop them into an LLM with reference code like the [OpenSwipe.kt](https://github.com/cinnabar777/OpenSwipe/blob/main/OpenSwipe.kt) file and/or the gesture engine from WMKeyboard and decide what parts you want to work on. The goal is to minimize your time having to research the subject and explain it to an LLM. 
+**How to use these documents:** drop them into an LLM, at least Part 1 & 2 and this one, with reference code like the [OpenSwipe.kt](https://github.com/cinnabar777/OpenSwipe/blob/main/OpenSwipe.kt) and the old [java files](https://github.com/cinnabar777/OpenSwipe/blob/main/Java%20dual%20engine.zip), and/or the gesture engine from WMKeyboard and decide what parts you want to work on. The goal is to minimize your time having to research the subject and explain it to an LLM. This Deepseek version has most of the info, things are more explained in part 1, and is easier to read, shorter, and I didn't proofread part 1 😂. **When I find something that is not covered I'll append it at the bottom of this front document.** 
 
 ___
 
@@ -620,3 +621,4 @@ ___
 - Shortcuts: Dictionary and android user dictionary shortcuts must be handled differently. Dictionary shortcuts are usually set to f=0, therefore they have to be separated out because the actual output is whitelisted. Furthermore, the comma, period, apostrophe, and space should be recognized and utilized in shortcuts. All shortcuts should be available to the gesture engine and gestureable.
 - gesture typing in different fields: url etc
 - [Early prediction mode](https://github.com/cinnabar777/OpenSwipe/blob/main/Docs/DTW_PART_1.md#early-prediction-mode-theoretical)
+- [Vowel Vortex Clarity Layout Optimization](https://github.com/cinnabar777/OpenSwipe/blob/main/Docs/DTW_PART_1.md#vowel-vortex-clarity) 
