@@ -611,3 +611,12 @@ Those topics can be revisited later if the single-engine design requires them, b
 ---
 
 This blueprint covers the philosophy, data structures, algorithmic optimizations, user experience, storage safety, privacy, and testing required to build a superior gesture keyboard. By following this, you move beyond "tap typing with a swipe option" and into genuine, high-speed, adaptive gesture input.
+
+___
+___
+
+# MISSED ITEMS
+
+- Shortcuts: Dictionary and android user dictionary shortcuts must be handled differently. Dictionary shortcuts are usually set to f=0, therefore they have to be separated out because the actual output is whitelisted. Furthermore, the comma, period, apostrophe, and space should be recognized and utilized in shortcuts. All shortcuts should be available to the gesture engine and gestureable. 
+- 
+- 
