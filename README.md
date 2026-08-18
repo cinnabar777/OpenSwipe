@@ -617,6 +617,6 @@ ___
 
 # MISSED ITEMS
 
-- Shortcuts: Dictionary and android user dictionary shortcuts must be handled differently. Dictionary shortcuts are usually set to f=0, therefore they have to be separated out because the actual output is whitelisted. Furthermore, the comma, period, apostrophe, and space should be recognized and utilized in shortcuts. All shortcuts should be available to the gesture engine and gestureable. 
-- 
-- 
+- Shortcuts: Dictionary and android user dictionary shortcuts must be handled differently. Dictionary shortcuts are usually set to f=0, therefore they have to be separated out because the actual output is whitelisted. Furthermore, the comma, period, apostrophe, and space should be recognized and utilized in shortcuts. All shortcuts should be available to the gesture engine and gestureable.
+- gesture typing in different fields: url etc
+- [Early prediction mode](https://github.com/cinnabar777/OpenSwipe/blob/main/Docs/DTW_PART_1.md#early-prediction-mode-theoretical)
