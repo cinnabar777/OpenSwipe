@@ -352,7 +352,9 @@ A notification asking the user if they want to move to the next level, when the 
 
 #### EARLY PREDICTION MODE (theoretical)
 
-This is a theoretical most which I was unable to get working with Deepseek or Replit. This mode should bot be attempted until after all the desired features are working perfectly and the developer as a great gesture engine. 
+This is a theoretical most which I was unable to get working with Deepseek or Replit. This mode should not be attempted until after all the desired features are working perfectly and the developer has a great gesture engine. 
+
+[Link to AI on early prediction](https://github.com/cinnabar777/OpenSwipe/blob/main/Docs/early_prediction.md)
 
 What is it? Gboard can give users a preview of a word after only a few letters that is much longer. The word dictionary is a good example. Because I typed that word a lot gboard would offer it as the preview when I gesture d→i→c i.e. already have "dictionary" and if I lift my finger I might get the word. This is where gboard falls down. Sometimes you get the early preview and sometimes it gives you another word. Nonetheless this is the idea, to get longer words early like tap typing gives you. 
 
