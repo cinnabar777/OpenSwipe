@@ -7,6 +7,7 @@ This version was produced by Deepseek based on [Part 1](https://github.com/cinna
 
 I've added a chat at the end with 4 different AI starting from a discussion on Swype keyboard. It really is about L2 vs DTW. While I was under the impression that DTW would be more accurate and better for custom layouts I've been able to test some keyboards running both, and the reality is, it comes down to tuning and learning. 
 
+And there is a chat on [early prediction](https://github.com/cinnabar777/OpenSwipe/blob/main/Docs/early_prediction.md). 
 ___
 
 **How to use these documents:** drop them into an LLM, at least Part 1 & 2 and this one, with reference code like the [OpenSwipe.kt](https://github.com/cinnabar777/OpenSwipe/blob/main/OpenSwipe.kt) and the old [java files](https://github.com/cinnabar777/OpenSwipe/blob/main/Java%20dual%20engine.zip), and/or the gesture engine from WMKeyboard and decide what parts you want to work on. The goal is to minimize your time having to research the subject and explain it to an LLM. This Deepseek version has most of the info, things are more explained in part 1, and is easier to read, shorter, and I didn't proofread part 1 😂. **When I find something that is not covered I'll append it at the bottom of this front document.** 
