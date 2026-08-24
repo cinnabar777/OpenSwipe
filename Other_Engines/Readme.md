@@ -11,14 +11,33 @@ Open source engines that are good examples for developers to use with LLM.
 [Slide keyboard](https://github.com/Robertg761/Slide/tree/main/engine/src/main/kotlin/com/slide/engine/gesture) uses FUTO swipe with a secondary L2 gesture engine. 
 
 
+[kinetica](https://github.com/EZ-eta/kinetica/tree/main/app/src/test/java/com/kinetica/keyboard/engine)
+
+- dual gesture
+- DTW + geometric scoring
+- L2 Euclidean distance
+- Trie DFS + DTW ranking
+- Arc-length resampling
+
+
+
 [OpenSwift](https://github.com/SysAdminDoc/OpenSwift)
 
 
 [SwiftFloris](https://github.com/SysAdminDoc/SwiftFloris)
 
 
+[RimBoard](https://github.com/An0nym010/rimboard/tree/main/app/src/main/java/com/rimboard/keyboard/engine)
+
 [CleverKeys](https://github.com/tribixbite/CleverKeys) uses an open source neural engine. 
 
+[Neve](https://github.com/winters27/Neve/tree/master/app/src/main/java/app/winters/keys/input/swipe) 
+
+> This is a neural network-based sequence-to-sequence (seq2seq) gesture engine using transformer-style encoder-decoder architecture with dictionary-constrained beam search.
+
+- ONNX-based encoder-decoder: Uses two pre-trained ONNX models (swipe_encoder.onnx and swipe_decoder.onnx)
+- Transformer attention mechanism: The SwipeModel loads and runs encoder/decoder sessions from ONNX Runtime
+- Attention-based memory passing: The encoder produces a memory tensor that the decoder steps through one token at a time
 
 [Open source neural gesture engine](https://github.com/proshian/neural-swipe-keyboard-android) currently only supports russian. 
 
