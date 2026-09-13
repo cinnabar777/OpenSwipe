@@ -1,6 +1,8 @@
 
 **THIS IS A WORK IN PROGRESS AND IS NOT COMPREHENSIVE!** 
 
+Note: [WM Keyboard](https://github.com/wasi-master/wmkeyboard) has integrated many of the OpenSwipe ideas into it. 
+
 ___
 
 This version was produced by Deepseek based on [Part 1](https://github.com/cinnabar777/OpenSwipe/blob/main/Docs/DTW_PART_1.md), my original writing, and [Part 2](https://github.com/cinnabar777/OpenSwipe/blob/main/Docs/DTW_PART_2.md), Replit compilation of old documentation I had from originally working on the engines. These documents are in the [Docs folder](https://github.com/cinnabar777/OpenSwipe/tree/main/Docs). 
